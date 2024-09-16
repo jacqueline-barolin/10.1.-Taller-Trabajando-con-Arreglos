@@ -40,7 +40,6 @@ document.addEventListener("DOMContentLoaded", (e) => {
   // Escribe tu solución aquí
   // Sugerencia de cómo mostrar el array => showList(strangeArray);
 
-  
   // Filtra los elementos de la lista que son de tipo String
   const arrayFiltrado = strangeArray.filter((element) => typeof element == "string");
   // Ordena los elementosya filtrados
